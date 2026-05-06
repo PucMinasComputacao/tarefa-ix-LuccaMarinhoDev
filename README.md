@@ -9,6 +9,8 @@ A atividade foi pensada para ser concluída em até 1h no laboratório, usando V
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Lucca Marinho Eterovik Tavares Pereira
+- Matricula: 913529
 
+![alt text](image.png)
+![alt text](image-1.png)
